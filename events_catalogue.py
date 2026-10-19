@@ -30,4 +30,14 @@ EVENTS = [
         'category': 'Technical',
         'description': 'Discuss how small web systems can be deployed and operated.',
     },
+    {
+        'id': 'Coding-meetup',
+        'title': 'Coding Meetup',
+        'date': '2026-11-1',
+        'time': '12:00',
+        'location': 'Waterside Campus, Room C109',
+        'capacity': 17,
+        'category': 'Technical',
+        'description': 'Discuss how small web systems can be deployed and operated.',
+    },
 ]
